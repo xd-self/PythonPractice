@@ -1,0 +1,5 @@
+pandas NumPy SQL 
+pydata Google Group Python pandas 
+·pystatsmodels statsmodels pandas 
+·numpy-discussion NumPy 
+·scipy-user SciPy Python 
